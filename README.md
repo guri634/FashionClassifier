@@ -13,7 +13,7 @@ Our model summary:
 Accuracy and Loss while training model:
 ![Screenshot (1)](https://user-images.githubusercontent.com/80912129/184539522-06cd94e2-3768-4005-acc2-fcc3399fd99c.png)
 
-Accuracy and Loss plot for both Training and Testing:
+Accuracy and Loss plot for both Training and Testing:'\n'
 ![download3](https://user-images.githubusercontent.com/80912129/184539221-1bb76913-a2a3-438e-8162-59977e94258b.png)
 
 Predictions with labels:
